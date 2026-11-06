@@ -1,0 +1,1 @@
+var e={legal:`_legal_dmhec_1`,titulo:`_titulo_dmhec_3`,rascunho:`_rascunho_dmhec_5`,centro:`_centro_dmhec_11`,grande:`_grande_dmhec_12`};export{e as t};
